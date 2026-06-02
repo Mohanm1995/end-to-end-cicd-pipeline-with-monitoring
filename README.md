@@ -6,7 +6,7 @@ A production-style DevOps project that automates the build, test,
 containerization, deployment, and monitoring of a Spring Boot application 
 using industry-standard tools. The pipeline triggers automatically on every 
 GitHub push via webhook integration with end-to-end deployment completing 
-in under 5 minutes.
+in under 5 minutes
 
 ---
 
